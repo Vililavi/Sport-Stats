@@ -1,0 +1,102 @@
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.exe.config
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.exe
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.pdb
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.csprojAssemblyReference.cache
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.Properties.Resources.resources
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.csproj.GenerateResource.cache
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.exe
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.pdb
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmUrheilutiedotvalinta.resources
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmUrheilutiedotJalkapallo.resources
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmUrheilutiedotJääkiekko.resources
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.exe.config
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.exe
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.pdb
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.csprojAssemblyReference.cache
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmUrheilutiedotvalinta.resources
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmUrheilutiedotJalkapallo.resources
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.Properties.Resources.resources
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.csproj.GenerateResource.cache
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.exe
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.pdb
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmMaali.resources
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmMaalit.resources
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmLopputulos.resources
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.JalkapalloJoukkueet.resources
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmLopputulos.resources
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmMaali.resources
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmMaalit.resources
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmUrheilutilastotSalibandy.resources
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmEräntiedot.resources
+D:\Käyttäjä\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmEräntiedot.resources
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmJääkiekkotilastot.resources
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmSalibandytilastot.resources
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.exe.config
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.exe
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.pdb
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.csprojAssemblyReference.cache
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmEräntiedot.resources
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.JalkapalloJoukkueet.resources
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmSalibandytilastot.resources
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmJääkiekkotilastot.resources
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmLopputulos.resources
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmMaali.resources
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmMaalit.resources
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmUrheilutiedotvalinta.resources
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.frmUrheilutiedotJalkapallo.resources
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.Properties.Resources.resources
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.csproj.GenerateResource.cache
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.exe
+D:\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.pdb
+D:\Ohjelmat\Drive\Koulu jutut\Kurssit\OHII\OHII\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.Joukkueet.resources
+C:\Users\lavik\Documents\Harjoitustyö\bin\Debug\Harjoitustyö.exe.config
+C:\Users\lavik\Documents\Harjoitustyö\bin\Debug\Harjoitustyö.exe
+C:\Users\lavik\Documents\Harjoitustyö\bin\Debug\Harjoitustyö.pdb
+C:\Users\lavik\Documents\Harjoitustyö\obj\Debug\Harjoitustyö.csprojAssemblyReference.cache
+C:\Users\lavik\Documents\Harjoitustyö\obj\Debug\Harjoitustyö.frmEräntiedot.resources
+C:\Users\lavik\Documents\Harjoitustyö\obj\Debug\Harjoitustyö.Joukkueet.resources
+C:\Users\lavik\Documents\Harjoitustyö\obj\Debug\Harjoitustyö.frmSalibandytilastot.resources
+C:\Users\lavik\Documents\Harjoitustyö\obj\Debug\Harjoitustyö.frmJääkiekkotilastot.resources
+C:\Users\lavik\Documents\Harjoitustyö\obj\Debug\Harjoitustyö.frmLopputulos.resources
+C:\Users\lavik\Documents\Harjoitustyö\obj\Debug\Harjoitustyö.frmMaali.resources
+C:\Users\lavik\Documents\Harjoitustyö\obj\Debug\Harjoitustyö.frmMaalit.resources
+C:\Users\lavik\Documents\Harjoitustyö\obj\Debug\Harjoitustyö.frmUrheilutiedotvalinta.resources
+C:\Users\lavik\Documents\Harjoitustyö\obj\Debug\Harjoitustyö.frmUrheilutiedotJalkapallo.resources
+C:\Users\lavik\Documents\Harjoitustyö\obj\Debug\Harjoitustyö.Properties.Resources.resources
+C:\Users\lavik\Documents\Harjoitustyö\obj\Debug\Harjoitustyö.csproj.GenerateResource.cache
+C:\Users\lavik\Documents\Harjoitustyö\obj\Debug\Harjoitustyö.exe
+C:\Users\lavik\Documents\Harjoitustyö\obj\Debug\Harjoitustyö.pdb
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\bin\Debug\Harjoitustyö.exe.config
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\bin\Debug\Harjoitustyö.exe
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\bin\Debug\Harjoitustyö.pdb
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.csprojAssemblyReference.cache
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmEräntiedot.resources
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.Joukkueet.resources
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmSalibandytilastot.resources
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmJääkiekkotilastot.resources
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmLopputulos.resources
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmMaali.resources
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmMaalit.resources
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmUrheilutiedotvalinta.resources
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmUrheilutiedotJalkapallo.resources
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.Properties.Resources.resources
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.csproj.GenerateResource.cache
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.exe
+C:\Users\lavik\Documents\Harjoitustyö_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.pdb
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\bin\Debug\Harjoitustyö.exe.config
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\bin\Debug\Harjoitustyö.exe
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\bin\Debug\Harjoitustyö.pdb
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.csprojAssemblyReference.cache
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmEräntiedot.resources
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.Joukkueet.resources
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmSalibandytilastot.resources
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmJääkiekkotilastot.resources
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmLopputulos.resources
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmMaali.resources
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmMaalit.resources
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmUrheilutiedotvalinta.resources
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.frmUrheilutiedotJalkapallo.resources
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.Properties.Resources.resources
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.csproj.GenerateResource.cache
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.exe
+D:\Ohjelmat\Drive\Koulujutut\Projektit\Tilastointiohjelma_Lavikainen2019\Harjoitustyö\obj\Debug\Harjoitustyö.pdb
